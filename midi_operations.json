@@ -1,0 +1,2588 @@
+{
+    "3": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "4": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar55",
+            "unit": "bar:beat",
+            "key": "Eb"
+        }
+    ],
+    "10": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar73",
+            "unit": "bar:beat",
+            "key": "Ab"
+        }
+    ],
+    "12": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar53",
+            "unit": "bar:beat",
+            "key": "E"
+        }
+    ],
+    "19": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar42",
+            "unit": "bar:beat",
+            "key": "B"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "Bar53",
+            "unit": "bar:beat",
+            "key": "A"
+        }
+    ],
+    "25": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar78",
+            "unit": "bar:beat",
+            "key": "C"
+        }
+    ],
+    "35": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar66",
+            "unit": "bar:beat",
+            "key": "E"
+        }
+    ],
+    "37": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar71",
+            "unit": "bar:beat",
+            "key": "Cm"
+        }
+    ],
+    "39": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar51",
+            "unit": "bar:beat",
+            "key": "E"
+        }
+    ],
+    "57": [
+        {
+            "operation": "add_key_change",
+            "time": "02:03:00",
+            "unit": "minute:second:ms",
+            "key": "Gb"
+        }
+    ],
+    "62": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/4"
+        }
+    ],
+    "74": [
+        {
+            "operation": "add_key_change",
+            "time": "bar71",
+            "unit": "bar:beat",
+            "key": "Ab"
+        }
+    ],
+    "91": [
+        {
+            "operation": "add_key_change",
+            "time": "bar22",
+            "unit": "bar:beat",
+            "key": "Bb"
+        }
+    ],
+    "92": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "6/8"
+        }
+    ],
+    "95": [
+        {
+            "operation": "add_key_change",
+            "time": "bar70",
+            "unit": "bar:beat",
+            "key": "B"
+        }
+    ],
+    "99": [
+        {
+            "operation": "add_key_change",
+            "time": "bar22",
+            "unit": "bar:beat",
+            "key": "D"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "bar30",
+            "unit": "bar:beat",
+            "key": "A"
+        }
+    ],
+    "101": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "102": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "6/8"
+        }
+    ],
+    "103": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "105": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "106": [
+        {
+            "operation": "add_key_change",
+            "time": "01:01:00",
+            "unit": "minute:second:ms",
+            "key": "C#m"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "01:12:00",
+            "unit": "minute:second:ms",
+            "key": "Em"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "01:41:00",
+            "unit": "minute:second:ms",
+            "key": "F#m"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "107": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/8"
+        }
+    ],
+    "108": [
+        {
+            "operation": "add_key_change",
+            "time": "02:23:00",
+            "unit": "minute:second:ms",
+            "key": "Bb"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "109": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "110": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "111": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "114": [
+        {
+            "operation": "add_key_change",
+            "time": "01:08:00",
+            "unit": "minute:second:ms",
+            "key": "D"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "01:24:00",
+            "unit": "minute:second:ms",
+            "key": "B"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "115": [
+        {
+            "operation": "add_key_change",
+            "time": "02:14:00",
+            "unit": "minute:second:ms",
+            "key": "Am"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "119": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "120": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "121": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "123": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "124": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "125": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "126": [
+        {
+            "operation": "add_key_change",
+            "time": "02:24:00",
+            "unit": "minute:second:ms",
+            "key": "A"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "127": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "128": [
+        {
+            "operation": "add_key_change",
+            "time": "01:15:00",
+            "unit": "minute:second:ms",
+            "key": "Bb"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "01:23:00",
+            "unit": "minute:second:ms",
+            "key": "Eb"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "129": [
+        {
+            "operation": "add_key_change",
+            "time": "02:47:00",
+            "unit": "minute:second:ms",
+            "key": "B"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "130": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "131": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "132": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "135": [
+        {
+            "operation": "add_key_change",
+            "time": "01:08:00",
+            "unit": "minute:second:ms",
+            "key": "E"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "01:40:00",
+            "unit": "minute:second:ms",
+            "key": "G"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "02:21:00",
+            "unit": "minute:second:ms",
+            "key": "E"
+        }
+    ],
+    "136": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "137": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "138": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "139": [
+        {
+            "operation": "add_key_change",
+            "time": "00:40:00",
+            "unit": "minute:second:ms",
+            "key": "Fm"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "00:59:00",
+            "unit": "minute:second:ms",
+            "key": "F#m"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "01:17:00",
+            "unit": "minute:second:ms",
+            "key": "Em"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "01:49:00",
+            "unit": "minute:second:ms",
+            "key": "Fm"
+        }
+    ],
+    "140": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "142": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "145": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "147": [
+        {
+            "operation": "add_key_change",
+            "time": "01:38:00",
+            "unit": "minute:second:ms",
+            "key": "B"
+        }
+    ],
+    "149": [
+        {
+            "operation": "add_key_change",
+            "time": "02:03:00",
+            "unit": "minute:second:ms",
+            "key": "E"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "150": [
+        {
+            "operation": "add_key_change",
+            "time": "01:54:00",
+            "unit": "minute:second:ms",
+            "key": "Db"
+        }
+    ],
+    "151": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "152": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/8"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "03:07:00",
+            "unit": "minute:second:ms",
+            "key": "Em"
+        }
+    ],
+    "153": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "154": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "158": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "159": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "165": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "166": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "170": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "171": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "172": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "6/8",
+            "time": "01:36:00"
+        },
+        {
+            "operation": "change_time_signature",
+            "time_signature": "4/4",
+            "time": "01:53:00"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "173": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/8"
+        }
+    ],
+    "174": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "175": [
+        {
+            "operation": "add_key_change",
+            "time": "01:13:00",
+            "unit": "minute:second:ms",
+            "key": "Db"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "176": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/8"
+        }
+    ],
+    "178": [
+        {
+            "operation": "add_key_change",
+            "time": "01:58:00",
+            "unit": "minute:second:ms",
+            "key": "Ab"
+        }
+    ],
+    "180": [
+        {
+            "operation": "add_key_change",
+            "time": "00:48:00",
+            "unit": "minute:second:ms",
+            "key": "Ab"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "01:36:00",
+            "unit": "minute:second:ms",
+            "key": "Abm"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "03:04:00",
+            "unit": "minute:second:ms",
+            "key": "A"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "181": [
+        {
+            "operation": "add_key_change",
+            "time": "01:56:00",
+            "unit": "minute:second:ms",
+            "key": "Gb"
+        }
+    ],
+    "184": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "186": [
+        {
+            "operation": "add_key_change",
+            "time": "01:45:00",
+            "unit": "minute:second:ms",
+            "key": "Ab"
+        }
+    ],
+    "188": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "189": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "190": [
+        {
+            "operation": "add_key_change",
+            "time": "01:01:00",
+            "unit": "minute:second:ms",
+            "key": "D"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "01:19:00",
+            "unit": "minute:second:ms",
+            "key": "C"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "01:55:00",
+            "unit": "minute:second:ms",
+            "key": "D"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "191": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "196": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "198": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "200": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "201": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "202": [
+        {
+            "operation": "add_key_change",
+            "time": "01:39:00",
+            "unit": "minute:second:ms",
+            "key": "D"
+        }
+    ],
+    "203": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/8"
+        }
+    ],
+    "204": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "205": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "208": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "210": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "213": [
+        {
+            "operation": "add_key_change",
+            "time": "03:37:00",
+            "unit": "minute:second:ms",
+            "key": "Bb"
+        }
+    ],
+    "214": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "215": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/8"
+        }
+    ],
+    "216": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "218": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "221": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "223": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "224": [
+        {
+            "operation": "add_key_change",
+            "time": "00:09:00",
+            "unit": "minute:second:ms",
+            "key": "B"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "00:25:00",
+            "unit": "minute:second:ms",
+            "key": "Ab"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "01:21:00",
+            "unit": "minute:second:ms",
+            "key": "B"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "01:37:00",
+            "unit": "minute:second:ms",
+            "key": "Ab"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "02:09:00",
+            "unit": "minute:second:ms",
+            "key": "A"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "225": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "226": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "227": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "228": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "229": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "230": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "231": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/8"
+        }
+    ],
+    "232": [
+        {
+            "operation": "add_key_change",
+            "time": "01:53:00",
+            "unit": "minute:second:ms",
+            "key": "D"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "02:13:00",
+            "unit": "minute:second:ms",
+            "key": "Bb"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "03:49:00",
+            "unit": "minute:second:ms",
+            "key": "C"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "233": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "234": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "236": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "237": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "238": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "239": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "240": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "241": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "242": [
+        {
+            "operation": "add_key_change",
+            "time": "00:08:00",
+            "unit": "minute:second:ms",
+            "key": "E"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "243": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "251": [
+        {
+            "operation": "add_key_change",
+            "time": "02:41:00",
+            "unit": "minute:second:ms",
+            "key": "G#m"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "252": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "253": [
+        {
+            "operation": "add_key_change",
+            "time": "02:01:00",
+            "unit": "minute:second:ms",
+            "key": "Bbm"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "254": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "6/8"
+        }
+    ],
+    "255": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "256": [
+        {
+            "operation": "add_key_change",
+            "time": "01:36:00",
+            "unit": "minute:second:ms",
+            "key": "D"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "257": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "258": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "259": [
+        {
+            "operation": "add_key_change",
+            "time": "02:53:00",
+            "unit": "minute:second:ms",
+            "key": "Gb"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "263": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "267": [
+        {
+            "operation": "add_key_change",
+            "time": "00:58:00",
+            "unit": "minute:second:ms",
+            "key": "B"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "272": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "275": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "276": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "280": [
+        {
+            "operation": "add_key_change",
+            "time": "01:34:00",
+            "unit": "minute:second:ms",
+            "key": "B"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "02:04:00",
+            "unit": "minute:second:ms",
+            "key": "Eb"
+        }
+    ],
+    "285": [
+        {
+            "operation": "add_key_change",
+            "time": "01:59:00",
+            "unit": "minute:second:ms",
+            "key": "Db"
+        }
+    ],
+    "286": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "287": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "291": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "296": [
+        {
+            "operation": "add_key_change",
+            "time": "00:48:00",
+            "unit": "minute:second:ms",
+            "key": "C#"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "00:53:00",
+            "unit": "minute:second:ms",
+            "key": "Db"
+        }
+    ],
+    "297": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "298": [
+        {
+            "operation": "add_key_change",
+            "time": "02:25:00",
+            "unit": "minute:second:ms",
+            "key": "Eb"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "299": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "300": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "303": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "305": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "306": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "307": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/8"
+        }
+    ],
+    "310": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "311": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "313": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "314": [
+        {
+            "operation": "add_key_change",
+            "time": "01:44:00",
+            "unit": "minute:second:ms",
+            "key": "E"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "315": [
+        {
+            "operation": "add_key_change",
+            "time": "01:30:00",
+            "unit": "minute:second:ms",
+            "key": "Ab"
+        }
+    ],
+    "316": [
+        {
+            "operation": "add_key_change",
+            "time": "01:23:00",
+            "unit": "minute:second:ms",
+            "key": "E"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "317": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "318": [
+        {
+            "operation": "add_key_change",
+            "time": "01:12:00",
+            "unit": "minute:second:ms",
+            "key": "Eb"
+        }
+    ],
+    "322": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "326": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "328": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/8"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "02:43:00",
+            "unit": "minute:second:ms",
+            "key": "C#m"
+        }
+    ],
+    "329": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "331": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "332": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "333": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "334": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "335": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "337": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "338": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "341": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "342": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "343": [
+        {
+            "operation": "add_key_change",
+            "time": "01:42:00",
+            "unit": "minute:second:ms",
+            "key": "G"
+        }
+    ],
+    "347": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "348": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "349": [
+        {
+            "operation": "add_key_change",
+            "time": "01:30:00",
+            "unit": "minute:second:ms",
+            "key": "E"
+        }
+    ],
+    "350": [
+        {
+            "operation": "add_key_change",
+            "time": "01:43:00",
+            "unit": "minute:second:ms",
+            "key": "Db"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "354": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "356": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "357": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "358": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "359": [
+        {
+            "operation": "add_key_change",
+            "time": "01:36:00",
+            "unit": "minute:second:ms",
+            "key": "D"
+        }
+    ],
+    "360": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "361": [
+        {
+            "operation": "add_key_change",
+            "time": "01:37:00",
+            "unit": "minute:second:ms",
+            "key": "C#m"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "362": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "363": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "364": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "365": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "367": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "370": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "372": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "373": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "375": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "377": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "379": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "380": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "381": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "383": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "385": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "386": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "387": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "388": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "390": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "394": [
+        {
+            "operation": "add_key_change",
+            "time": "02:08:00",
+            "unit": "minute:second:ms",
+            "key": "E"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "395": [
+        {
+            "operation": "add_key_change",
+            "time": "01:07:00",
+            "unit": "minute:second:ms",
+            "key": "C"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "01:14:00",
+            "unit": "minute:second:ms",
+            "key": "Cm"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "396": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "397": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "399": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "401": [
+        {
+            "operation": "add_key_change",
+            "time": "01:53:00",
+            "unit": "minute:second:ms",
+            "key": "C"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "402": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "403": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "404": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "405": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "406": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "407": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "408": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "415": [
+        {
+            "operation": "add_key_change",
+            "time": "02:01:00",
+            "unit": "minute:second:ms",
+            "key": "Am"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "416": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "417": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "418": [
+        {
+            "operation": "add_key_change",
+            "time": "02:20:00",
+            "unit": "minute:second:ms",
+            "key": "A"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "419": [
+        {
+            "operation": "add_key_change",
+            "time": "01:56:00",
+            "unit": "minute:second:ms",
+            "key": "Bm"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "02:05:00",
+            "unit": "minute:second:ms",
+            "key": "Gm"
+        }
+    ],
+    "421": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "422": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "424": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "426": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "427": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "429": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "431": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "433": [
+        {
+            "operation": "add_key_change",
+            "time": "01:08:00",
+            "unit": "minute:second:ms",
+            "key": "G"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "01:14:00",
+            "unit": "minute:second:ms",
+            "key": "E"
+        }
+    ],
+    "434": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "437": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "438": [
+        {
+            "operation": "add_key_change",
+            "time": "01:54:00",
+            "unit": "minute:second:ms",
+            "key": "B"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "439": [
+        {
+            "operation": "add_key_change",
+            "time": "02:16:00",
+            "unit": "minute:second:ms",
+            "key": "F"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "441": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "442": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "443": [
+        {
+            "operation": "add_key_change",
+            "time": "01:52:00",
+            "unit": "minute:second:ms",
+            "key": "Eb"
+        }
+    ],
+    "444": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "445": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "448": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "450": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "452": [
+        {
+            "operation": "add_key_change",
+            "time": "01:25:00",
+            "unit": "minute:second:ms",
+            "key": "Ab"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "453": [
+        {
+            "operation": "add_key_change",
+            "time": "01:41:00",
+            "unit": "minute:second:ms",
+            "key": "A"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "454": [
+        {
+            "operation": "add_key_change",
+            "time": "02:53:00",
+            "unit": "minute:second:ms",
+            "key": "F"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "455": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "456": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "457": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "461": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "462": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "463": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "465": [
+        {
+            "operation": "add_key_change",
+            "time": "01:53:00",
+            "unit": "minute:second:ms",
+            "key": "Ab"
+        }
+    ],
+    "467": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "468": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "469": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "470": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "471": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "472": [
+        {
+            "operation": "add_key_change",
+            "time": "02:00:00",
+            "unit": "minute:second:ms",
+            "key": "C"
+        }
+    ],
+    "473": [
+        {
+            "operation": "add_key_change",
+            "time": "01:38:00",
+            "unit": "minute:second:ms",
+            "key": "Gb"
+        }
+    ],
+    "474": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "475": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "476": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "478": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "479": [
+        {
+            "operation": "add_key_change",
+            "time": "02:07:00",
+            "unit": "minute:second:ms",
+            "key": "Am"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "481": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "483": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "484": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "486": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "487": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "488": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "489": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "490": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "493": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "494": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "497": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "498": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "499": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "503": [
+        {
+            "operation": "add_key_change",
+            "time": "01:39:00",
+            "unit": "minute:second:ms",
+            "key": "B"
+        },
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 4
+        }
+    ],
+    "504": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 2
+        }
+    ],
+    "505": [
+        {
+            "operation": "shift_start_beat",
+            "to_beat": 3
+        }
+    ],
+    "519": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar41",
+            "unit": "bar:beat",
+            "key": "Fm"
+        }
+    ],
+    "536": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar46",
+            "unit": "bar:beat",
+            "key": "Ab"
+        }
+    ],
+    "544": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar54",
+            "unit": "bar:beat",
+            "key": "Ab"
+        }
+    ],
+    "557": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar58",
+            "unit": "bar:beat",
+            "key": "Bb"
+        }
+    ],
+    "568": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar54",
+            "unit": "bar:beat",
+            "key": "Eb"
+        }
+    ],
+    "569": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar57",
+            "unit": "bar:beat",
+            "key": "Bm"
+        }
+    ],
+    "579": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar118",
+            "unit": "bar:beat",
+            "key": "F#m"
+        }
+    ],
+    "594": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar68",
+            "unit": "bar:beat",
+            "key": "F"
+        }
+    ],
+    "608": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar55",
+            "unit": "bar:beat",
+            "key": "C#"
+        }
+    ],
+    "619": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar64",
+            "unit": "bar:beat",
+            "key": "Eb"
+        }
+    ],
+    "632": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar52",
+            "unit": "bar:beat",
+            "key": "Am"
+        }
+    ],
+    "643": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar45",
+            "unit": "bar:beat",
+            "key": "D#"
+        }
+    ],
+    "644": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar61",
+            "unit": "bar:beat",
+            "key": "Ab"
+        }
+    ],
+    "646": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar47",
+            "unit": "bar:beat",
+            "key": "Am"
+        }
+    ],
+    "649": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar52",
+            "unit": "bar:beat",
+            "key": "Eb"
+        }
+    ],
+    "653": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/4"
+        }
+    ],
+    "654": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar71",
+            "unit": "bar:beat",
+            "key": "Cm"
+        },
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/4"
+        }
+    ],
+    "662": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/4"
+        }
+    ],
+    "665": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar43",
+            "unit": "bar:beat",
+            "key": "G"
+        }
+    ],
+    "674": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar66",
+            "unit": "bar:beat",
+            "key": "F"
+        }
+    ],
+    "683": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar62",
+            "unit": "bar:beat",
+            "key": "Cbm"
+        }
+    ],
+    "694": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar85",
+            "unit": "bar:beat",
+            "key": "D"
+        }
+    ],
+    "700": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar87",
+            "unit": "bar:beat",
+            "key": "D#"
+        }
+    ],
+    "701": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar33",
+            "unit": "bar:beat",
+            "key": "F"
+        }
+    ],
+    "712": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar34",
+            "unit": "bar:beat",
+            "key": "Fm"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "Bar46",
+            "unit": "bar:beat",
+            "key": "F#m"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "Bar49",
+            "unit": "bar:beat",
+            "key": "Gm"
+        }
+    ],
+    "719": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar57",
+            "unit": "bar:beat",
+            "key": "Cm"
+        }
+    ],
+    "731": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar46",
+            "unit": "bar:beat",
+            "key": "C#"
+        }
+    ],
+    "732": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar64",
+            "unit": "bar:beat",
+            "key": "Bm"
+        }
+    ],
+    "738": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar62",
+            "unit": "bar:beat",
+            "key": "C"
+        }
+    ],
+    "746": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar35",
+            "unit": "bar:beat",
+            "key": "F#"
+        }
+    ],
+    "747": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar58",
+            "unit": "bar:beat",
+            "key": "Dm"
+        }
+    ],
+    "757": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar71",
+            "unit": "bar:beat",
+            "key": "G"
+        }
+    ],
+    "758": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar57",
+            "unit": "bar:beat",
+            "key": "G"
+        },
+        {
+            "operation": "add_key_change",
+            "time": "Bar66",
+            "unit": "bar:beat",
+            "key": "Gm"
+        }
+    ],
+    "759": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar47",
+            "unit": "bar:beat",
+            "key": "Gb"
+        }
+    ],
+    "766": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar51",
+            "unit": "bar:beat",
+            "key": "Ab"
+        }
+    ],
+    "770": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/4"
+        }
+    ],
+    "771": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar56",
+            "unit": "bar:beat",
+            "key": "G"
+        }
+    ],
+    "776": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar61",
+            "unit": "bar:beat",
+            "key": "Eb"
+        }
+    ],
+    "779": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar83",
+            "unit": "bar:beat",
+            "key": "F#m"
+        }
+    ],
+    "783": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar83",
+            "unit": "bar:beat",
+            "key": "A"
+        }
+    ],
+    "794": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar116",
+            "unit": "bar:beat",
+            "key": "B"
+        }
+    ],
+    "799": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/4"
+        }
+    ],
+    "802": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar44",
+            "unit": "bar:beat",
+            "key": "F"
+        }
+    ],
+    "809": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar74",
+            "unit": "bar:beat",
+            "key": "C#m"
+        },
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/4"
+        }
+    ],
+    "815": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar72",
+            "unit": "bar:beat",
+            "key": "Dm"
+        }
+    ],
+    "816": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar41",
+            "unit": "bar:beat",
+            "key": "Ab"
+        }
+    ],
+    "817": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar72",
+            "unit": "bar:beat",
+            "key": "D"
+        }
+    ],
+    "821": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/4"
+        }
+    ],
+    "825": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar77",
+            "unit": "bar:beat",
+            "key": "C"
+        }
+    ],
+    "831": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar74",
+            "unit": "bar:beat",
+            "key": "Ebm"
+        }
+    ],
+    "835": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar43",
+            "unit": "bar:beat",
+            "key": "A"
+        }
+    ],
+    "837": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar63",
+            "unit": "bar:beat",
+            "key": "C"
+        }
+    ],
+    "843": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar39",
+            "unit": "bar:beat",
+            "key": "A"
+        }
+    ],
+    "855": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/4"
+        }
+    ],
+    "857": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar94",
+            "unit": "bar:beat",
+            "key": "Db"
+        }
+    ],
+    "864": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar61",
+            "unit": "bar:beat",
+            "key": "D"
+        }
+    ],
+    "869": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar64",
+            "unit": "bar:beat",
+            "key": "Db"
+        },
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/4"
+        }
+    ],
+    "872": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/4"
+        }
+    ],
+    "882": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar9",
+            "unit": "bar:beat",
+            "key": "D"
+        }
+    ],
+    "885": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar35",
+            "unit": "bar:beat",
+            "key": "F"
+        }
+    ],
+    "887": [
+        {
+            "operation": "change_time_signature",
+            "time_signature": "3/4"
+        }
+    ],
+    "889": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar56",
+            "unit": "bar:beat",
+            "key": "Db"
+        }
+    ],
+    "902": [
+        {
+            "operation": "add_key_change",
+            "time": "Bar67",
+            "unit": "bar:beat",
+            "key": "F"
+        }
+    ]
+}
