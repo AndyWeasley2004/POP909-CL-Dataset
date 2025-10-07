@@ -69,9 +69,9 @@ python data_process/process_pop909.py \
 
 ## Problematic Pieces and Known Issues
 
-Document pieces requiring special handling (e.g., unresolved time signatures, ambiguous chord labels, missing metadata).
+Document pieces requiring special handling if you need to use:
 
-- *518.mid*: Left and right hands have misaligned downbeats in quantization version, so we keep the algorithm-extracted labels.
+- *518.mid*: Left and right hands have misaligned downbeats after transcription and quantization, so we keep the algorithm-extracted labels.
 - *620.mid*: Left and right hands are potentially misaligned.
 
 ## Citation
