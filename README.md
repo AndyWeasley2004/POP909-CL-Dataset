@@ -41,7 +41,7 @@ python process_pop909.py
 
 ## Using the Dataset
 
-- For chord recognition modelling, rely on `POP909_processed/` to benefit from metadata corrections.
+- For chord recognition modelling, rely on `POP909_processed/` or `POP909_processed.zip` to benefit from metadata corrections.
 - When comparing against legacy POP909 benchmarks, reference `POP-24-bin-midi/`.
 - Research replicating annotation decisions can consult `midi_operations.json` for per-piece transformations.
 
