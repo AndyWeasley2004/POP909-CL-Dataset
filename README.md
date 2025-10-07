@@ -2,6 +2,21 @@
 
 POP909-CL is a chord-labelled extension of the original [POP909](https://github.com/music-x-lab/POP909-Dataset) corpus, intended to support chord recognition, automatic accompaniment, and music theory research. The repository combines expert-reviewed chord annotations with cleaned, metadata-corrected MIDI files while preserving backwards compatibility with the POP909 timing grid. It is part of the release of the paper "BACHI: Boundary-Aware Symbolic Chord Recognition Through Masked Iterative Decoding on Pop and Classical Music". You can refer to details about this project [here](https://github.com/AndyWeasley2004/BACHI)
 
+## Dataset Highlight
+
+### Key Improvements
+- ✅ 40.6% of misaligned start beats corrected
+- ✅ 14.2% of missing key signature changes added
+- ✅ 2.6% of incorrect time signatures fixed
+- ✅ ~35% of chord label errors corrected
+
+### Statistics
+- **Total tracks**: 909 pop songs
+- **Format**: MIDI with aligned annotations
+- **Annotations**: Chords, beats, keys, time signatures
+- **Quality**: Professionally reviewed and corrected
+
+
 ## Dataset Structure
 
 - **`POP909-24-bin-midi/`** – Original POP909 release quantized to 24 bins per beat. Included for reference and reproducibility against the prior benchmark corpus.
