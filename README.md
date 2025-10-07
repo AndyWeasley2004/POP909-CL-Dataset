@@ -29,7 +29,10 @@ The script expects the cleaned directory and operations file to be present in th
 5. (Optional) You can use the following script to extract chord labels and their onset beat from the chord track in MIDI:
 
 ```bash
-python process_pop909.py
+# Process POP909 to organized format
+python data_process/process_pop909.py \
+    --pop909-root POP909_processed \
+    --out data_root/all_data_collection
 ```
 
 ## Annotation Conventions
