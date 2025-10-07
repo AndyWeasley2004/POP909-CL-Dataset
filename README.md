@@ -16,6 +16,10 @@ POP909-CL is a chord-labelled extension of the original [POP909](https://github.
 - **Annotations**: Chords, beats, keys, time signatures
 - **Quality**: Professionally reviewed and corrected
 
+### Example Correction
+
+<img width="1549" height="584" alt="image" src="https://github.com/user-attachments/assets/a58dbbdc-e148-4090-bf8e-954e26c5be4f" />
+
 
 ## Dataset Structure
 
