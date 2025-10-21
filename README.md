@@ -1,5 +1,7 @@
 # POP909-CL Dataset
 
+[Paper](https://arxiv.org/abs/2510.06528) | [Demo Page](https://andyweasley2004.github.io/BACHI/) | [POP909-CL Dataset](https://github.com/AndyWeasley2004/POP909-CL-Dataset) | [Model Weight & Data](https://huggingface.co/datasets/Itsuki-music/BACHI_Chord_Recognition)
+
 POP909-CL is a chord-labelled extension of the original [POP909](https://github.com/music-x-lab/POP909-Dataset) corpus, intended to support chord recognition, automatic accompaniment, and music theory research. The repository combines expert-reviewed chord annotations with cleaned, metadata-corrected MIDI files while preserving backwards compatibility with the POP909 timing grid. It is part of the release of the paper "BACHI: Boundary-Aware Symbolic Chord Recognition Through Masked Iterative Decoding on Pop and Classical Music". You can refer to details about this project [here](https://github.com/AndyWeasley2004/BACHI)
 
 ## Dataset Highlight
