@@ -84,8 +84,8 @@ If you use this resource, please cite this curated release:
 @inproceedings{bachi2025,
     author = {Mingyang Yao, Ke Chen, Shlomo Dubnov, Taylor Berg-Kirkpatrick},
     title = {BACHI: Boundary-Aware Symbolic Chord Recognition Through Masked Iterative Decoding on Pop and Classical Music},
-    booktitle = {arXiv},
-    year = {2025}
+    booktitle = {Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+    year = {2026}
 }
 
 ```
