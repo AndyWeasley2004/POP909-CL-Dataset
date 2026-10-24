@@ -15,12 +15,6 @@ For anyone want to just use the data, please go to `POP909_processed/` subfolder
 - ✅ 2.6% of incorrect time signatures fixed
 - ✅ ~35% of chord label errors corrected
 
-### Statistics
-- **Total tracks**: 906 of the 909 POP909 songs (see [missing pieces](#missing-pieces))
-- **Format**: MIDI with aligned annotations
-- **Annotations**: Chords, beats, keys, time signatures
-- **Quality**: Professionally reviewed and corrected
-
 ### Example Correction
 
 <img width="1549" height="584" alt="image" src="https://github.com/user-attachments/assets/a58dbbdc-e148-4090-bf8e-954e26c5be4f" />
@@ -45,10 +39,10 @@ Each `POP909_processed/NNN.mid` is a type-1 MIDI file with five tracks:
 | 1 `MELODY`, 2 `BRIDGE`, 3 `PIANO` | The three POP909 tracks, from the POP909 24-bin quantization, with the original sustain/sostenuto/soft pedals (CC64/66/67) |
 | 4 `CHORDS` | Human-annotated chords, one sustained note per chord tone |
 
-- **Timing.** One POP909 beat is 480 ticks and lasts 0.6 s in every file (the tempo of the 24-bin MIDI). Notes keep the 24-bin grid (20 ticks); notes the quantization collapsed to zero length last 1 tick. For every note, `output tick = 24-bin tick + total_shift_ticks` (see metadata).
-- **Downbeats.** Bar lines follow the corrected downbeat. Each file is then moved by whole bars so that the earliest note falls in the first bar. For example, a 4/4 piece starting on beat 7 starts on beat 3. Whole-bar moves never change beat or bar alignment. No notes are cropped.
+- **Timing.** One POP909 beat is 480 ticks and lasts 0.6 s in every file (the tempo of the 24-bin MIDI). 
+- **Downbeats.** Bar lines follow the corrected downbeat. Each file is then moved by whole bars so that the earliest note falls in the first bar. For example, a 4/4 piece starting on beat 7 starts on beat 3.
 - **PPQ.** 892 files use PPQ 480, so a POP909 beat is a quarter note. In the 14 x/8 pieces a POP909 beat is an eighth note, so they use PPQ 960, except 092, whose beat is a dotted quarter (PPQ 320). Tempo is scaled to match, so playback speed and tick positions are the same as everywhere else, and `ticks / ticks_per_beat` always counts true quarter notes.
-- **Pedals.** Pedal events from the original POP909 MIDI are mapped onto the same 24-bin grid as the notes. Pedal changes before the start are summarized at tick 0.
+- **Pedals.** Pedal events from the original POP909 MIDI are preserved
 - **Keys and meters.** Read the key and time signature events on track 0, including changes during the piece.
 
 ## Metadata
@@ -75,8 +69,6 @@ Each `POP909_processed/NNN.mid` is a type-1 MIDI file with five tracks:
 ## What's Revised
 
 - **Score.** Rebuilt from the POP909 24-bin quantization, keeping the original MELODY / BRIDGE / PIANO tracks and pedals.
-- **Chords.** The expert chord annotation is aligned to the same 24-bin timeline.
-- **Downbeat, meter and key.** Start beats, time signatures and key changes follow the expert annotation, applied on the original beat grid so that beats stay aligned with POP909.
 - **Further corrections.** Some downbeat and meter errors the annotation missed were found by automatic detection and spot-checked by listening.
 - **Issues #1 and #2.** 553 (a duplicate of 543) is removed, and `043 .mid` is renamed.
 
