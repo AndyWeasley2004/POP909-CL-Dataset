@@ -5,6 +5,7 @@ import shutil
 from typing import List, Dict, Tuple, Set
 
 import miditoolkit
+import mido
 from tqdm import tqdm
 
 # (major, minor, diminished, augmented, sus2, sus4)
@@ -63,23 +64,20 @@ def process_pop909(
         piece_out_dir.mkdir(parents=True, exist_ok=True)
 
         midi_file = miditoolkit.MidiFile(midi_path)
-        if not midi_file.instruments or not midi_file.instruments[0].notes:
-            print(f"Skipping {piece_name}: no score track or notes found.")
-            continue
+        if len(midi_file.instruments) < 2:
+            raise ValueError(f"{piece_name}: expected score tracks followed by a chord track")
 
-        score_track = midi_file.instruments[0]
-        time_shift = min(note.start for note in score_track.notes)
-
-        if time_shift > 0:
-            for instrument in midi_file.instruments:
-                for note in instrument.notes:
-                    note.start -= time_shift
-                    note.end -= time_shift
-        
-        # Save shifted score
-        score_only_midi = miditoolkit.MidiFile()
-        score_only_midi.instruments.append(score_track)
-        score_only_midi.dump(piece_out_dir / f"{piece_name}.mid")
+        # Keep the release timeline, PPQ, tempo and metadata unchanged. This also
+        # supports MELODY/BRIDGE/PIANO followed by the annotation track.
+        score_only_midi = mido.MidiFile(midi_path)
+        note_track_indices = [i for i, track in enumerate(score_only_midi.tracks)
+                              if any(msg.type == 'note_on' and msg.velocity for msg in track)]
+        chord_note_ons = sum(msg.type == 'note_on' and msg.velocity > 0
+                            for msg in score_only_midi.tracks[note_track_indices[-1]])
+        if chord_note_ons != len(midi_file.instruments[-1].notes):
+            raise ValueError(f"{piece_name}: chord parsing loses note events; review the MIDI before exporting")
+        del score_only_midi.tracks[note_track_indices[-1]]
+        score_only_midi.save(piece_out_dir / f"{piece_name}.mid")
 
         # Process chord annotations
         chord_track = midi_file.instruments[-1]
